@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyLivestockDiaries</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="stage">
+        <item>Newly born</item>
+        <item>Weaning</item>
+        <item>Heifer</item>
+        <item>culled</item>
+        <item>Milking</item>
+        <item>Pregnancy</item>
+        <item>Dryoff</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <dimen name="standard_55">55dp</dimen>
+    <dimen name="standard_105">105dp</dimen>
+    <dimen name="standard_155">155dp</dimen>
+</resources>

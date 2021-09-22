@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.FeedFormulation">
+
+    <include
+        android:id="@+id/ingridientsToolbar"
+        layout="@layout/toolbar"/>
+
+    <LinearLayout
+        android:layout_below="@id/ingridientsToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="8">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/circling"
+            android:layout_weight="2.5"
+            android:elevation="10dp">
+
+            <TextView
+                android:id="@+id/txtEnergy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="Energy"
+                android:textColor="@color/black"
+                android:textSize="18dp" />
+
+            <CheckBox
+                android:layout_below="@id/txtEnergy"
+                android:id="@+id/feedmaizeBran"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Maize Bran CP 11% CF 10%"
+                 />
+            <TextView
+                android:id="@+id/maize_price"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_toRightOf="@id/txtEnergy"/>
+            <CheckBox
+                android:layout_below="@id/feedmaizeBran"
+                android:id="@+id/feedwheatBran"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Wheat Bran CP 15% CF 12%"
+                />
+            <CheckBox
+                android:layout_below="@id/feedwheatBran"
+                android:id="@+id/feedoatBran"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Oats CP 14% CF 12%" />
+            <CheckBox
+                android:layout_below="@id/feedoatBran"
+                android:id="@+id/feedsorghumBran"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Sorghum CP 12% CF 3%" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:elevation="10dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/circling"
+            android:layout_weight="2.5">
+            <TextView
+                android:id="@+id/protein"
+                android:layout_width="wrap_content"
+                android:text="Proteins"
+                android:textColor="@color/black"
+                android:textSize="18dp"
+                android:layout_centerHorizontal="true"
+                android:layout_height="wrap_content"/>
+            <CheckBox
+                android:layout_below="@id/protein"
+                android:id="@+id/feedsunflowercake"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Sunflower cake CP 26%"
+                />
+            <CheckBox
+                android:layout_below="@id/feedsunflowercake"
+                android:id="@+id/feedfishmeal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Fish meal CP 55%"
+                />
+            <CheckBox
+                android:layout_below="@id/feedfishmeal"
+                android:id="@+id/feedsoyabeans"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Soyabean meal CP 47%" />
+            <CheckBox
+                android:layout_below="@id/feedsoyabeans"
+                android:id="@+id/feedgroundnuts"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Groundnut meal CP 45%" />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:background="@drawable/circling"
+            android:layout_marginBottom="5dp"
+            android:elevation="10dp"
+            android:layout_weight="2">
+            <TextView
+                android:id="@+id/mineral"
+                android:layout_width="wrap_content"
+                android:text="Minerals"
+                android:textColor="@color/black"
+                android:textSize="18dp"
+                android:layout_centerHorizontal="true"
+                android:layout_height="wrap_content"/>
+            <CheckBox
+                android:layout_below="@id/mineral"
+                android:id="@+id/feedsodiumChloride"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Sodium chloride "
+                />
+            <CheckBox
+                android:layout_below="@id/feedsodiumChloride"
+                android:id="@+id/feedlimestone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Limestone"
+                />
+            <CheckBox
+                android:layout_below="@id/feedlimestone"
+                android:id="@+id/feedmagnesium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Magnisium oxide" />
+            <CheckBox
+                android:layout_below="@id/feedmagnesium"
+                android:id="@+id/feedphosphate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="Di-calcium phosphate" />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:background="@drawable/circling"
+            android:layout_marginBottom="5dp"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/feedSaveButton"
+                android:layout_width="200dp"
+                android:text="Save Ingredients"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:saveEnabled="false"
+                android:textColor="@android:color/background_light"
+                android:textAllCaps="false"
+                android:background="@drawable/button"/>
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mylivestockdiaries">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyLivestockDiaries">
+        <activity android:name=".Spinnertrial"></activity>
+        <activity android:name=".AdminDashboard" />
+        <activity android:name=".Full_ingredients" />
+        <activity android:name=".feedadditives" />
+        <activity android:name=".ProteinActivity" />
+        <activity android:name=".FeedTrialActivity" />
+        <activity android:name=".FeedActivity" />
+        <activity android:name=".PregnancyActivity" />
+        <activity android:name=".calculation" />
+        <activity android:name=".Artificialinsemination" />
+        <activity android:name=".Calving" />
+        <activity android:name=".christine" />
+        <activity android:name=".activities.NewAIRecord" />
+        <activity android:name=".activities.ExpenseActivity" />
+        <activity android:name=".activities.IncomeActivity" />
+        <activity android:name=".activities.Finance" />
+        <activity android:name=".activities.RemoveActivity" />
+        <activity android:name=".activities.Dewormer" />
+        <activity android:name=".activities.Vaccine" />
+        <activity android:name=".activities.Treatment" />
+        <activity android:name=".finance" />
+        <activity android:name=".activities.PriceActivity" />
+        <activity android:name=".activities.BreedingAdd" />
+        <activity android:name=".activities.MilkAdd" />
+        <activity android:name=".activities.CattleDetails" />
+        <activity android:name=".activities.CattleAdd" />
+        <activity android:name=".activities.FeedFormulation" />
+        <activity android:name=".activities.BreedingActivity" />
+        <activity android:name=".activities.MilkRecordActivity" />
+        <activity android:name=".activities.EventsActivity" />
+        <activity android:name=".activities.TasksActivity" />
+        <activity android:name=".activities.CattleActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

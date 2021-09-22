@@ -1,0 +1,195 @@
+com/example/mylivestockdiaries/FeedActivity.java
+ com.example.mylivestockdiaries.FeedActivity
+com/example/mylivestockdiaries/activities/TasksActivity.java
+ com.example.mylivestockdiaries.activities.TasksActivity
+com/example/mylivestockdiaries/models/IncomeModel.java
+ com.example.mylivestockdiaries.models.IncomeModel
+com/example/mylivestockdiaries/fragments/SecondFragment.java
+ com.example.mylivestockdiaries.fragments.SecondFragment
+ com.example.mylivestockdiaries.fragments.SecondFragment$1
+ com.example.mylivestockdiaries.fragments.SecondFragment$1$1
+ com.example.mylivestockdiaries.fragments.SecondFragment$1$1$1
+com/example/mylivestockdiaries/calculation.java
+ com.example.mylivestockdiaries.calculation
+ com.example.mylivestockdiaries.calculation$1
+com/example/mylivestockdiaries/activities/BreedingAdd.java
+ com.example.mylivestockdiaries.activities.BreedingAdd
+com/example/mylivestockdiaries/LoginActivity.java
+ com.example.mylivestockdiaries.LoginActivity
+ com.example.mylivestockdiaries.LoginActivity$1
+ com.example.mylivestockdiaries.LoginActivity$1$1
+ com.example.mylivestockdiaries.LoginActivity$2
+com/example/mylivestockdiaries/BuildConfig.java
+ com.example.mylivestockdiaries.BuildConfig
+com/example/mylivestockdiaries/activities/ExpenseActivity.java
+ com.example.mylivestockdiaries.activities.ExpenseActivity
+ com.example.mylivestockdiaries.activities.ExpenseActivity$1
+ com.example.mylivestockdiaries.activities.ExpenseActivity$2
+ com.example.mylivestockdiaries.activities.ExpenseActivity$3
+ com.example.mylivestockdiaries.activities.ExpenseActivity$4
+ com.example.mylivestockdiaries.activities.ExpenseActivity$5
+com/example/mylivestockdiaries/AdminDashboard.java
+ com.example.mylivestockdiaries.AdminDashboard
+ com.example.mylivestockdiaries.AdminDashboard$1
+ com.example.mylivestockdiaries.AdminDashboard$2
+com/example/mylivestockdiaries/Artificialinsemination.java
+ com.example.mylivestockdiaries.Artificialinsemination
+ com.example.mylivestockdiaries.Artificialinsemination$1
+ com.example.mylivestockdiaries.Artificialinsemination$2
+ com.example.mylivestockdiaries.Artificialinsemination$2$1
+ com.example.mylivestockdiaries.Artificialinsemination$2$1$1
+com/example/mylivestockdiaries/activities/Finance.java
+ com.example.mylivestockdiaries.activities.Finance
+ com.example.mylivestockdiaries.activities.Finance$1
+ com.example.mylivestockdiaries.activities.Finance$2
+ com.example.mylivestockdiaries.activities.Finance$3
+ com.example.mylivestockdiaries.activities.Finance$4
+ com.example.mylivestockdiaries.activities.Finance$5
+com/example/mylivestockdiaries/activities/EventsActivity.java
+ com.example.mylivestockdiaries.activities.EventsActivity
+ com.example.mylivestockdiaries.activities.EventsActivity$1
+com/example/mylivestockdiaries/RegisterActivity.java
+ com.example.mylivestockdiaries.RegisterActivity
+ com.example.mylivestockdiaries.RegisterActivity$1
+ com.example.mylivestockdiaries.RegisterActivity$2
+ com.example.mylivestockdiaries.RegisterActivity$2$1
+ com.example.mylivestockdiaries.RegisterActivity$2$1$1
+ com.example.mylivestockdiaries.RegisterActivity$3
+com/example/mylivestockdiaries/fragments/FirstFragment.java
+ com.example.mylivestockdiaries.fragments.FirstFragment
+ com.example.mylivestockdiaries.fragments.FirstFragment$1
+ com.example.mylivestockdiaries.fragments.FirstFragment$1$1
+ com.example.mylivestockdiaries.fragments.FirstFragment$1$1$1
+com/example/mylivestockdiaries/activities/PriceActivity.java
+ com.example.mylivestockdiaries.activities.PriceActivity
+com/example/mylivestockdiaries/activities/Treatment.java
+ com.example.mylivestockdiaries.activities.Treatment
+ com.example.mylivestockdiaries.activities.Treatment$1
+ com.example.mylivestockdiaries.activities.Treatment$2
+ com.example.mylivestockdiaries.activities.Treatment$3
+ com.example.mylivestockdiaries.activities.Treatment$4
+com/example/mylivestockdiaries/PregnancyActivity.java
+ com.example.mylivestockdiaries.PregnancyActivity
+ com.example.mylivestockdiaries.PregnancyActivity$1
+ com.example.mylivestockdiaries.PregnancyActivity$2
+ com.example.mylivestockdiaries.PregnancyActivity$3
+ com.example.mylivestockdiaries.PregnancyActivity$4
+com/example/mylivestockdiaries/adapters/DataHoldetr.java
+ com.example.mylivestockdiaries.adapters.DataHoldetr
+com/example/mylivestockdiaries/ProteinActivity.java
+ com.example.mylivestockdiaries.ProteinActivity
+ com.example.mylivestockdiaries.ProteinActivity$1
+com/example/mylivestockdiaries/activities/RemoveActivity.java
+ com.example.mylivestockdiaries.activities.RemoveActivity
+com/example/mylivestockdiaries/Calving.java
+ com.example.mylivestockdiaries.Calving
+com/example/mylivestockdiaries/adapters/MainAdapter.java
+ com.example.mylivestockdiaries.adapters.MainAdapter
+com/example/mylivestockdiaries/fragments/FragmentAdapter.java
+ com.example.mylivestockdiaries.fragments.FragmentAdapter
+com/example/mylivestockdiaries/adapters/PricesAdapter.java
+ com.example.mylivestockdiaries.adapters.PricesAdapter
+ com.example.mylivestockdiaries.adapters.PricesAdapter$OnItemClickListener
+ com.example.mylivestockdiaries.adapters.PricesAdapter$ViewHolder
+ com.example.mylivestockdiaries.adapters.PricesAdapter$ViewHolder$1
+com/example/mylivestockdiaries/Full_ingredients.java
+ com.example.mylivestockdiaries.Full_ingredients
+ com.example.mylivestockdiaries.Full_ingredients$1
+com/example/mylivestockdiaries/feedadditives.java
+ com.example.mylivestockdiaries.feedadditives
+ com.example.mylivestockdiaries.feedadditives$1
+com/example/mylivestockdiaries/activities/MilkRecordActivity.java
+ com.example.mylivestockdiaries.activities.MilkRecordActivity
+ com.example.mylivestockdiaries.activities.MilkRecordActivity$1
+ com.example.mylivestockdiaries.activities.MilkRecordActivity$2
+ com.example.mylivestockdiaries.activities.MilkRecordActivity$2$1
+ com.example.mylivestockdiaries.activities.MilkRecordActivity$2$1$1
+com/example/mylivestockdiaries/activities/CattleAdd.java
+ com.example.mylivestockdiaries.activities.CattleAdd
+ com.example.mylivestockdiaries.activities.CattleAdd$1
+ com.example.mylivestockdiaries.activities.CattleAdd$2
+ com.example.mylivestockdiaries.activities.CattleAdd$3
+ com.example.mylivestockdiaries.activities.CattleAdd$4
+ com.example.mylivestockdiaries.activities.CattleAdd$5
+ com.example.mylivestockdiaries.activities.CattleAdd$6
+com/example/mylivestockdiaries/models/DataRetrive.java
+ com.example.mylivestockdiaries.models.DataRetrive
+com/example/mylivestockdiaries/adapters/AIAdapter.java
+ com.example.mylivestockdiaries.adapters.AIAdapter
+com/example/mylivestockdiaries/models/HomeModel.java
+ com.example.mylivestockdiaries.models.HomeModel
+com/example/mylivestockdiaries/activities/FeedFormulation.java
+ com.example.mylivestockdiaries.activities.FeedFormulation
+ com.example.mylivestockdiaries.activities.FeedFormulation$1
+com/example/mylivestockdiaries/activities/MilkAdd.java
+ com.example.mylivestockdiaries.activities.MilkAdd
+ com.example.mylivestockdiaries.activities.MilkAdd$1
+ com.example.mylivestockdiaries.activities.MilkAdd$2
+ com.example.mylivestockdiaries.activities.MilkAdd$3
+ com.example.mylivestockdiaries.activities.MilkAdd$4
+com/example/mylivestockdiaries/activities/BreedingActivity.java
+ com.example.mylivestockdiaries.activities.BreedingActivity
+ com.example.mylivestockdiaries.activities.BreedingActivity$1
+com/example/mylivestockdiaries/models/ExpenseModel.java
+ com.example.mylivestockdiaries.models.ExpenseModel
+com/example/mylivestockdiaries/FeedTrialActivity.java
+ com.example.mylivestockdiaries.FeedTrialActivity
+ com.example.mylivestockdiaries.FeedTrialActivity$1
+com/example/mylivestockdiaries/adapters/HolderAdapter.java
+ com.example.mylivestockdiaries.adapters.HolderAdapter
+com/example/mylivestockdiaries/activities/CattleDetails.java
+ com.example.mylivestockdiaries.activities.CattleDetails
+ com.example.mylivestockdiaries.activities.CattleDetails$1
+com/example/mylivestockdiaries/models/AIModel.java
+ com.example.mylivestockdiaries.models.AIModel
+com/example/mylivestockdiaries/adapters/IncomeAdapter.java
+ com.example.mylivestockdiaries.adapters.IncomeAdapter
+com/example/mylivestockdiaries/activities/NewAIRecord.java
+ com.example.mylivestockdiaries.activities.NewAIRecord
+ com.example.mylivestockdiaries.activities.NewAIRecord$1
+ com.example.mylivestockdiaries.activities.NewAIRecord$2
+ com.example.mylivestockdiaries.activities.NewAIRecord$3
+ com.example.mylivestockdiaries.activities.NewAIRecord$4
+com/example/mylivestockdiaries/models/DataModel.java
+ com.example.mylivestockdiaries.models.DataModel
+com/example/mylivestockdiaries/MainActivity.java
+ com.example.mylivestockdiaries.MainActivity
+ com.example.mylivestockdiaries.MainActivity$1
+com/example/mylivestockdiaries/activities/Vaccine.java
+ com.example.mylivestockdiaries.activities.Vaccine
+ com.example.mylivestockdiaries.activities.Vaccine$1
+ com.example.mylivestockdiaries.activities.Vaccine$2
+ com.example.mylivestockdiaries.activities.Vaccine$3
+ com.example.mylivestockdiaries.activities.Vaccine$4
+com/example/mylivestockdiaries/adapters/MilkAdapter.java
+ com.example.mylivestockdiaries.adapters.MilkAdapter
+com/example/mylivestockdiaries/christine.java
+ com.example.mylivestockdiaries.christine
+ com.example.mylivestockdiaries.christine$1
+ com.example.mylivestockdiaries.christine$2
+ com.example.mylivestockdiaries.christine$3
+ com.example.mylivestockdiaries.christine$4
+com/example/mylivestockdiaries/activities/CattleActivity.java
+ com.example.mylivestockdiaries.activities.CattleActivity
+ com.example.mylivestockdiaries.activities.CattleActivity$1
+ com.example.mylivestockdiaries.activities.CattleActivity$2
+ com.example.mylivestockdiaries.activities.CattleActivity$2$1
+ com.example.mylivestockdiaries.activities.CattleActivity$2$2
+ com.example.mylivestockdiaries.activities.CattleActivity$2$2$1
+com/example/mylivestockdiaries/models/MilkModel.java
+ com.example.mylivestockdiaries.models.MilkModel
+com/example/mylivestockdiaries/activities/IncomeActivity.java
+ com.example.mylivestockdiaries.activities.IncomeActivity
+ com.example.mylivestockdiaries.activities.IncomeActivity$1
+ com.example.mylivestockdiaries.activities.IncomeActivity$2
+ com.example.mylivestockdiaries.activities.IncomeActivity$3
+ com.example.mylivestockdiaries.activities.IncomeActivity$4
+ com.example.mylivestockdiaries.activities.IncomeActivity$5
+com/example/mylivestockdiaries/adapters/ExpenseAdapter.java
+ com.example.mylivestockdiaries.adapters.ExpenseAdapter
+com/example/mylivestockdiaries/activities/Dewormer.java
+ com.example.mylivestockdiaries.activities.Dewormer
+ com.example.mylivestockdiaries.activities.Dewormer$1
+ com.example.mylivestockdiaries.activities.Dewormer$2
+ com.example.mylivestockdiaries.activities.Dewormer$3
+ com.example.mylivestockdiaries.activities.Dewormer$4

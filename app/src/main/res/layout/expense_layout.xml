@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_margin="5dp"
+    android:paddingBottom="20dp"
+    android:paddingTop="25dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:background="@drawable/circling"
+    android:elevation="10dp"
+    android:weightSum="9">
+
+    <LinearLayout
+        android:layout_marginLeft="10dp"
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/expenseNames"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Expense name"
+            android:textSize="14sp"
+            android:textColor="@android:color/black"/>
+        <TextView
+            android:id="@+id/expenseDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="date"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Amount"
+            android:layout_gravity="center"
+            android:textSize="14sp"
+            android:textColor="@android:color/black"/>
+        <TextView
+            android:id="@+id/expenseCash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="KSH 50"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:textColor="#C10505"
+            />
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3">
+
+        <ImageView
+            android:id="@+id/expenseTouch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="-3dp"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/pop_indi" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

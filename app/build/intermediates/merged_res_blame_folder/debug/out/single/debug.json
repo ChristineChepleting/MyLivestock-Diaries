@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_breeding_add.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_breeding_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_expense_layout.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\expense_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_full_ingredients.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_full_ingredients.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_finance.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\finance.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_cattle_design.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\cattle_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_christine.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_christine.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_from_right.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\anim\\slide_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cowimage.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\cowimage.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_from_left.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\anim\\slide_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pregnancy.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_pregnancy.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_events.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dewormer.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_dewormer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cowdetails.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable-v24\\cowdetails.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview_layout.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\cardview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\menu_save_milk.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\menu\\save_milk.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jellicans.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\jellicans.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cattle.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_cattle.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cattle_details.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_cattle_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate_backward.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\anim\\rotate_backward.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_insem.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\insem.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calculation.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_calculation.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_pricecardview.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\pricecardview.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_to_left.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\anim\\slide_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_price.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_price.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\anim_fab_close.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\anim\\fab_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pop_indi.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\pop_indi.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vaccine.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_vaccine.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_airecord.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_new_airecord.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedadditives.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_feedadditives.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feed_formulation.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_feed_formulation.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_person_outline.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable-v24\\ic_baseline_person_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_milk_layout.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\milk_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grazing.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\grazing.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_remove.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_income_layout.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\income_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circling.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\circling.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\anim\\animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\menu_pop_up.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\menu\\pop_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feed_trial.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_feed_trial.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cattle_add.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_cattle_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cowicon.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\cowicon.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_check.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\check.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_detachmoney.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\ic_detachmoney.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_local_hospital_24.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable-v24\\ic_baseline_local_hospital_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calving.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_calving.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_knapsack.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\knapsack.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_milk_record.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_milk_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable-v24\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feed.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tasks.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\menu_menubar.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\menu\\menubar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_milk_add.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_milk_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_ai_layout.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\ai_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_attachmoney.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\ic_attachmoney.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inputs.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\inputs.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_finance.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_finance.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_artificialinsemination.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_artificialinsemination.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\anim_fab_open.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\anim\\fab_open.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate_forward.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\anim\\rotate_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_farmevents.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\farmevents.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\drawable_feedings.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\drawable\\feedings.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_treatment.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_treatment.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_breeding.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_breeding.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_expense.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_income.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_to_right.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\anim\\slide_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_protein.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_protein.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_datas_layout.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\datas_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\user\\AndroidStudioProjects\\MyLivestockDiaries\\app\\src\\main\\res\\layout\\activity_admin_dashboard.xml"
+    }
+]

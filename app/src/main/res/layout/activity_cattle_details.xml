@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.CattleDetails">
+    <RelativeLayout
+        android:id="@+id/cattleDetail"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:background="@drawable/cowdetails"
+        android:layout_height="280dp"/>
+    <TextView
+        android:id="@+id/generalDetail"
+        android:layout_below="@+id/cattleDetail"
+        android:layout_width="match_parent"
+        android:background="#FFC107"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:layout_height="30dp"
+        android:textSize="20sp"
+        android:text=" Individual Cattle General Details"
+        android:gravity="center_horizontal" />
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/generalDetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout"
+        android:weightSum="4">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="2">
+            <TextView
+                android:id="@+id/tagnametxt"
+                android:layout_marginTop="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tag number"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:layout_marginLeft="30dp"
+                />
+            <TextView
+                android:id="@+id/tagBreedtxt"
+                android:layout_marginTop="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:text="Breed Name"
+                android:layout_marginLeft="30dp"
+                />
+
+
+            <TextView
+                android:id="@+id/tagDobtxt"
+                android:layout_marginTop="20dp"
+                android:layout_below="@id/tagBreedtxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:text="Date of Birth"
+                android:layout_marginLeft="30dp"
+                />
+
+            <TextView
+                android:id="@+id/tagAgetxt"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:text="Age"
+                android:layout_marginLeft="30dp"
+                />
+
+            <TextView
+                android:id="@+id/tagGendertxt"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:text="Gender"
+                android:layout_marginLeft="30dp"
+                />
+            <TextView
+                android:id="@+id/tagWeighttxt"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:text="Weight"
+                android:layout_marginLeft="30dp"
+                />
+            <TextView
+                android:id="@+id/tagStagetxt"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:text="Stage"
+                android:layout_marginLeft="30dp"
+                />
+
+            <TextView
+                android:id="@+id/tagJoinedtxt"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:text="Joined On"
+                android:layout_marginLeft="30dp"
+                />
+            <TextView
+                android:id="@+id/tagSourcetxt"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:text="Source"
+                android:layout_marginLeft="30dp"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="2">
+            <TextView
+                android:id="@+id/detailstagnumber"
+                android:layout_marginTop="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:layout_marginLeft="10dp"
+                />
+            <TextView
+                android:id="@+id/detailstagBreed"
+                android:layout_marginTop="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:layout_marginLeft="10dp"
+                />
+
+
+            <TextView
+                android:id="@+id/detailstagDob"
+                android:layout_marginTop="20dp"
+                android:layout_below="@id/tagBreedtxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:layout_marginLeft="10dp"
+                />
+
+            <TextView
+                android:id="@+id/detailstagAge"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                 android:layout_marginLeft="10dp"
+                />
+
+            <TextView
+                android:id="@+id/detailstagGender"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:layout_marginLeft="10dp"
+                />
+            <TextView
+                android:id="@+id/detailstagWeight"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:layout_marginLeft="10dp"
+                />
+            <TextView
+                android:id="@+id/detailstagStage"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:layout_marginLeft="10dp"
+                />
+
+            <TextView
+                android:id="@+id/detailstagJoined"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:layout_marginLeft="10dp"
+                />
+            <TextView
+                android:id="@+id/detailstagSource"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textColor="@android:color/background_dark"
+                android:layout_marginLeft="10dp"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>
